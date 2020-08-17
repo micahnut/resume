@@ -169,6 +169,10 @@ section.resume-section .resume-item .resume-date {
     min-width: none;
 }
 
+.nav-pills .nav-link.active{
+  background-color: #355C7D;
+}
+
 @media (min-width: 768px) {
     section.resume-section {
         min-height: 100vh;
